@@ -1,0 +1,8 @@
+SCANDALOUS, Attempts: 6, Winner: Computer
+SEDUCTION, Attempts: 6, Winner: Computer
+HEDONIST, Attempts: 6, Winner: Computer
+FANTASY, Attempts: 7, Winner: Player
+NOTHING, Attempts: 6, Winner: Computer
+USHERED, Attempts: 10, Winner: Computer
+MORDOR, Attempts: 11, Winner: Player
+RICHLY, Attempts: 6, Winner: Computer
